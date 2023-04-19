@@ -9,3 +9,5 @@ I am a graduate of BS Aeronautical Engineering and decided to change career beca
 Please bare with my first project as it may not look that pleasing because I am still learning.
 I also want to see this once I finish TOP and see the progress I made over the time.
 If you are seeing this after I finished TOP and made better projects in the future I want this to be an insipiration to others that everyone could make it as long as you want it. See that I started from here and because you love something that you do you'll be great with it.
+
+I wasn't too sure about adding in git and commiting if I did it right. I also did some a little bit of google to make  the website look more neat since I haven't covered CSS yet.
