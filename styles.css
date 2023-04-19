@@ -5,46 +5,63 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 body {
     font-weight: bold;
     font-family: monospace;
-    text-align: center;
+    color: black;
 }
 
 #head {
-    color: black;
+ 
     background-color: white;
+    text-align: center;
     font-size: 45px;
 }
 
-#dish {
-    color: black;
- 
+#dish,
+#title {
     font-size: 32px;
+    text-align: center;
 }
 
-.info {
-    color:black;
- 
+.info,
+.dishinfo {
+    text-align: center;
     font-size: 22px;
 }
 
 #notice {
-    color:black;
+    font-size: 18px;
+    text-align: center;
+}
 
+#subtitle,
+#ingredients,
+#directions {
+    font-size: 22px;
+}
+
+.ingre,
+.directs {
     font-size: 18px;
 }
-#odin {
-    color: black;
-    font-size: 18px;
 
+#odin {
+    font-size: 18px;
+    text-align: center;
     font-weight: 600;
 }
 
-.odin_logo {
+.photo{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#options,
+#return {
+    text-align: center;
 }
